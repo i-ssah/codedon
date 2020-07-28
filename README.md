@@ -2,7 +2,8 @@
 
 > Why so serious? keep calm.
 
-[About](/about)
 ![easy](images/justapassingglance.jpeg)
-[code](/Code)
-[command Line](/codes/command-line)
+<img src="images/justapassingglance.jpeg" width ="1000px">
+- [About](/about)
+- [code](/Codes/)
+- [command Line](/codes/command-line)
